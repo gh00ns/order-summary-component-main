@@ -9,3 +9,6 @@ Challenge #3
 ### Screenshot
 
 ![screenshot](./images/screenshot.png)
+
+### Credit
+Watched tsbsankara https://www.youtube.com/channel/UCeDWS6WbftXe9-6QQFMrKAQ on youtube for help with the flexboxes. 
